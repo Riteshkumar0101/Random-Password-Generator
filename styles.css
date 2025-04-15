@@ -118,7 +118,7 @@ input[type="text"] {
   left: 0;
   width: 100%; /* Full width */
   height: 100%; /* Full height */
-  background-image: url("img1.jpg");
+  background-image: url("images/img1.jpg");
   background-size: cover;
   filter: brightness(0.5);
   z-index: 1; /* Ensure background appears behind content */

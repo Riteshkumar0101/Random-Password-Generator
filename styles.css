@@ -134,7 +134,7 @@ input[type="text"] {
 
 @keyframes glow {
   0% {
-    box-shadow: 0 0 10px rgba(255, 255, 255, 0.8);
+    box-shadow: 0 0 10px rgba(217, 11, 11, 0.8);
   }
   100% {
     box-shadow: none;
